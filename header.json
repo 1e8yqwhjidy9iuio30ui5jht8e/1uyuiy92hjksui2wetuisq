@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "下水道",
+"symbol" : "LLv",
+"data_url" : "https://script.google.com/macros/s/AKfycbxgHW-XUJpIuwavjrvDVBgfthYnEGUVdQvCCL6YGm896WMPgQgA6htoHNS92UYbGur_/exec"
 }
